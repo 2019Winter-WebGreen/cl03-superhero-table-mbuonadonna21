@@ -1,0 +1,27 @@
+/*
+* Mia
+* March 13, 2019
+* Superhero Table
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+     background-color: blanchedalmond
+    
+}
+
+    table, td, th { border: 1px solid blue; }
+    
+    table { border-collapse: collapse; }
+    
+    thead { background-color: lime }
+    tbody { background-color: deeppink}
+    tfoot { background-color: deepskyblue }
